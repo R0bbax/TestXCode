@@ -225,6 +225,7 @@
 				18F6F941182BE1C4009A7962 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

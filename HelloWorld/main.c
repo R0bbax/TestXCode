@@ -11,8 +11,20 @@
 int main(int argc, const char * argv[])
 {
 
-    // insert code here...
+    int x = 7;
+    int y = 166;
+    int z;
+    
     printf("Hello, World!\n");
+    
+    z = x*y;
+    
+    printf("Z waarde is %d \n",z);
+    
+    
+    //Print different values as integer TODO ?
+    //OR just want to test some different texts ? 
+    
     return 0;
 }
 
